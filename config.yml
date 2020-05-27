@@ -1,1 +1,2 @@
-Message: You have been kicked because the server has too many players
+KickMessage: &3&lYou have been kicked because the server has too many players
+NoKickMessage: &4&lSorry, no players left to kick
