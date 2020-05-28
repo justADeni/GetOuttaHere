@@ -5,6 +5,8 @@
 When player with 'getouttahere.stay' permission joins the server, random player without this permission will get kicked out, with KickMessage being displayed.
 If no such player exists, player joining will get NoKickMessage
 
+To download this plugin go to https://github.com/prosteDeniGC/GetOuttaHere/releases
+
 # Config
 
 KickMessage: "&3&lYou have been kicked because the server has too many players"
