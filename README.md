@@ -8,6 +8,7 @@ If no such player exists, player joining will get NoKickMessage
 # Config
 
 KickMessage: "&3&lYou have been kicked because the server has too many players"
+
 NoKickMessage: "&4&lSorry, no players left to kick"
 
 IgnoreFull: false
