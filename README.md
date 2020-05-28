@@ -24,4 +24,5 @@ reloads the config, you need 'getouttahere.admin' permission to use it
 # Permissions
 
 getouttahere.stay
+
 getouttahere.admin
