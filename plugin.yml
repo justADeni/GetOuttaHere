@@ -1,0 +1,8 @@
+name: GetOuttaHere
+version: ${project.version}
+main: me.prostedeni.goodcraft.getouttahere.GetOuttaHere
+api-version: 1.13
+description: kicks random player if player with specified permission joins full server
+commands:
+  getouttahere:
+    description: lets you reload config with /getouttahere reload
