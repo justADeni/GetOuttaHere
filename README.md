@@ -15,7 +15,7 @@ NoKickMessage: "&4&lSorry, no players left to kick"
 
 IgnoreFull: false
 
-if IgnoreFull is set to true, no players will get kicked when player joins the server, bypassing the server player limit (for example: there can be 11/10 players online)
+if IgnoreFull is set to true, no players will get kicked when player joins the server, bypassing the server player limit (for example: there can be 11/10 players online) Note: IgnoreFull feature doesn't work with ProtocolSupport plugin installed.
 
 # Commands
 
